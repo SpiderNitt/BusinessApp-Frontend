@@ -17,4 +17,5 @@ export default colors = {
     topBar: "#9146F2",
     black: "#000000",
     cart: "#9747FF",
+    discount: '#FFDA56'
 };
